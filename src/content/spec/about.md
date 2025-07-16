@@ -1,6 +1,10 @@
 ---
-title: 关于
+title: About
 pubDate: 2024-12-06
 ---
 
-此主题系 Hexo 主题 <a href="https://github.com/sumimakito/hexo-theme-typography">活版印字</a> 在 Astro 平台上的移植版本
+### Hi, I'm [xtawa(Xihao Zhang)!](https://xtawa.top)
+
+This site is a record of my life
+
+I do not accept the application of the friend chain of this website, and you can go to [Main Blog](https://xtawa.top) if you need it.

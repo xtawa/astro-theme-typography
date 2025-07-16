@@ -5,28 +5,20 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '活版印字',
-    subtitle: 'Typography',
-    author: 'Moeyua',
-    description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    title: 'Footprints Printer',
+    subtitle: 'YanLuo洛',
+    author: 'YanLuo洛',
+    description: '随手记网站，记录生活日常',
+    website: 'https://life.xtawa.top/',
     pageSize: 5,
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://github.com/xtawa',
       },
       {
         name: 'rss',
         href: '/atom.xml',
-      },
-      {
-        name: 'twitter',
-        href: 'https://github.com/moeyua/astro-theme-typography',
-      },
-      {
-        name: 'mastodon',
-        href: 'https://github.com/moeyua/astro-theme-typography',
       },
     ],
     navLinks: [
@@ -56,7 +48,7 @@ export const defaultConfig: ThemeConfig = {
   },
   appearance: {
     theme: 'system',
-    locale: 'zh-cn',
+    locale: 'en-us',
     colorsLight: {
       primary: '#2e405b',
       background: '#ffffff',
@@ -72,7 +64,7 @@ export const defaultConfig: ThemeConfig = {
     },
   },
   seo: {
-    twitter: '@moeyua13',
+    twitter: '@kekeyanluo',
     meta: [],
     link: [],
   },
